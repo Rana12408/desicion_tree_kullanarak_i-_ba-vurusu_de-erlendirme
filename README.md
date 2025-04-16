@@ -1,0 +1,1 @@
+# desicion_tree_kullanarak_i-_ba-vurusu_de-erlendirme
